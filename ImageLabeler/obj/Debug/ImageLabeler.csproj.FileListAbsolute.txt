@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\bin\Debug\ImageLabeler.exe.config
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\bin\Debug\ImageLabeler.exe
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\bin\Debug\ImageLabeler.pdb
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\obj\Debug\ImageLabeler.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\obj\Debug\ImageLabeler.Form1.resources
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\obj\Debug\ImageLabeler.Properties.Resources.resources
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\obj\Debug\ImageLabeler.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\obj\Debug\ImageLabeler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\obj\Debug\ImageLabeler.exe
+C:\Users\PC\Desktop\ImageLabeler\ImageLabeler\obj\Debug\ImageLabeler.pdb
